@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I’m Zaiba Hasan Khan
 
-<!--
-**zaibahasankhan/zaibahasankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 **Bioinformatician | PhD in Plant Molecular Biology**  
+📊 RNA-seq • Metagenomics • NGS • R • Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+**Languages & Tools**
+- 🧪 R, Python, Bash
+- 📈 DESeq2, edgeR, ggplot2
+- 🧬 Metagenomics: MetaPhlAn, HUMAnN
+- 📊 Data Science, Statistical Analysis
+
+---
+
+## 📁 Projects
+Here are some repositories you might find interesting:
+
+- **rnaseq-deseq2-analysis** — Differential expression workflow
+- **r-data-visualization** — R scripts for data plots
+- **r-data-wrangling** — R data manipulation utilities
+
+---
+
+## 📫 Connect With Me
+- 🔗 GitHub: https://github.com/zaibahasankhan
+- 💼 LinkedIn: (add your LinkedIn URL)
