@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Zaiba Hasan Khan
 
-🔬 **Bioinformatician | PhD in Plant Molecular Biology**  
+🔬 **Bioinformatician | Senior Data Analyst | PhD in Plant Molecular Biology | Post Doc in Metagenomics**  
 📊 RNA-seq • Metagenomics • NGS • R • Machine Learning
 
 ---
