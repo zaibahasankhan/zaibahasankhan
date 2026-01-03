@@ -25,4 +25,4 @@ Here are some repositories you might find interesting:
 
 ## 📫 Connect With Me
 - 🔗 GitHub: https://github.com/zaibahasankhan
-- 💼 LinkedIn: (add your LinkedIn URL)
+- 💼 LinkedIn: https://www.linkedin.com/in/dr-zaiba-hasan-khan-463555109/
