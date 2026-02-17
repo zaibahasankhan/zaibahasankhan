@@ -9,7 +9,8 @@
 **Languages & Tools**
 - 🧪 R, Python, Bash
 - 📈 DESeq2, edgeR, ggplot2
-- 🧬 Metagenomics: MetaPhlAn, HUMAnN
+- 🧬 Metagenomics: QIIME2 and MOTHUR (16s rRNA), MetaPhlAn, HUMAnN
+- 🧬 WGS prokaryotes/bacterial genomics
 - 📊 Data Science, Statistical Analysis
 
 ---
